@@ -1,0 +1,6 @@
+conversion_factor: 1.0
+operands:
+- - CMSWMU8TEV-CMSWMU8TEV_WP_leptrap
+  - CMSWMU8TEV-CMSWMU8TEV_WM_leptrap
+operation: 'null'
+target_dataset: CMSWMU8TEV

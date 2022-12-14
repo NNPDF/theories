@@ -1,0 +1,9 @@
+comment: Original dataset was named ATLASPHT15_SF
+conversion_factor: 1.0
+operands:
+- - ATLASPHT15-ATLASPHT15_Et_1bin
+  - ATLASPHT15-ATLASPHT15_Et_2bin
+  - ATLASPHT15-ATLASPHT15_Et_3bin
+  - ATLASPHT15-ATLASPHT15_Et_4bin
+operation: null
+target_dataset: ATLASPHT15

@@ -1,0 +1,5 @@
+operands:
+- - DYE866R_D
+- - DYE866R_P
+operation: 'ratio'
+target_dataset: DYE886R

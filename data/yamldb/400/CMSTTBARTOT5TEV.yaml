@@ -1,0 +1,5 @@
+conversion_factor: 1.0
+operands:
+- - CMS_TTB_5TEV_TOT
+operation: 'null'
+target_dataset: CMSTTBARTOT5TEV

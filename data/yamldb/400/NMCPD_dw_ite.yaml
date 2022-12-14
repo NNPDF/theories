@@ -1,0 +1,7 @@
+comment: Original dataset was named NMCPD_dw_ite
+conversion_factor: 1.0
+operands:
+- - NMC_NC_EM_D_F2
+- - NMC_NC_EM_P_F2
+operation: RATIO
+target_dataset: NMCPD

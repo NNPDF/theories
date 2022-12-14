@@ -1,0 +1,5 @@
+conversion_factor: 0.7071 # 1/sqrt(2)
+operands:
+- - NNPDF_POS_DYS_40
+operation: 'null'
+target_dataset: POSDYS

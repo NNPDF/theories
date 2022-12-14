@@ -1,0 +1,5 @@
+conversion_factor: 1.0
+operands:
+- - ATLAS_TTBARTOT_13TEV_FULLLUMI-TOPDIFF13TEVTOT
+operation: 'null'
+target_dataset: ATLAS_TTBARTOT_13TEV_FULLLUMI

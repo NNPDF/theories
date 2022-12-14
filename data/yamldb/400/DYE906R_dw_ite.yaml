@@ -1,0 +1,23 @@
+operands:
+- - DYE906R_D_bin_0
+- - DYE906R_D_bin_1
+- - DYE906R_D_bin_2
+- - DYE906R_D_bin_3
+- - DYE906R_D_bin_4
+- - DYE906R_D_bin_5
+- - DYE906R_D_bin_6
+- - DYE906R_D_bin_7
+- - DYE906R_D_bin_8
+- - DYE906R_D_bin_9
+- - DYE906R_P_bin_0
+- - DYE906R_P_bin_1
+- - DYE906R_P_bin_2
+- - DYE906R_P_bin_3
+- - DYE906R_P_bin_4
+- - DYE906R_P_bin_5
+- - DYE906R_P_bin_6
+- - DYE906R_P_bin_7
+- - DYE906R_P_bin_8
+- - DYE906R_P_bin_9
+operation: 'COM'
+target_dataset: DYE906R

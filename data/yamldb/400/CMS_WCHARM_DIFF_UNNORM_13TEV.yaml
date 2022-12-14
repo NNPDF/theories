@@ -1,0 +1,6 @@
+conversion_factor: 1.0
+operands:
+- - CMS_WCHARM_DIFF_UNNORM_13TEV-CMS_WCHARM_13TEV_WPCB_leptrap
+  - CMS_WCHARM_DIFF_UNNORM_13TEV-CMS_WCHARM_13TEV_WMC_leptrap
+operation: 'add'
+target_dataset: CMS_WCHARM_DIFF_UNNORM_13TEV

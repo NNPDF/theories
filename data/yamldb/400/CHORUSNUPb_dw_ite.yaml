@@ -1,0 +1,6 @@
+comment: Original dataset was named CHORUSNUPb_dw_ite
+conversion_factor: 1.0
+operands:
+- - CHORUS_CC_NU_PB_SIGMARED
+operation: null
+target_dataset: CHORUSNUPb

@@ -1,0 +1,10 @@
+apfelcomb:
+  repetition_flag:
+  - D0ZRAP-D0_ZNORM_MCgrid_500M
+comment: Original dataset was named D0ZRAP_40
+conversion_factor: 1.0
+operands:
+- - D0ZRAP-D0_ZRAP_MCgrid_500M
+- - D0ZRAP-D0_ZNORM_MCgrid_500M
+operation: RATIO
+target_dataset: D0ZRAP

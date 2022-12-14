@@ -1,0 +1,6 @@
+comment: Original dataset was named BCDMSD_dw_ite
+conversion_factor: 1.0
+operands:
+- - BCDMS_NC_EM_D_F2
+operation: null
+target_dataset: BCDMSD

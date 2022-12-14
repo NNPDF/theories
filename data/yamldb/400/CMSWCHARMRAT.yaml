@@ -1,0 +1,6 @@
+conversion_factor: 1.0
+operands:
+- - CMSWCHARMRAT-CMSWCHARM-WpCb-eta4
+  - CMSWCHARMRAT-CMSWCHARM-WmC-eta3
+operation: 'ratio'
+target_dataset: CMSWCHARMRAT

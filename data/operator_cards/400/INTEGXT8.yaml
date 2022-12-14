@@ -1,0 +1,15 @@
+Q2grid:
+- 2.7224999999999997
+backward_inversion: exact
+debug_skip_non_singlet: false
+debug_skip_singlet: false
+ev_op_iterations: 1
+ev_op_max_order: 10
+interpolation_is_log: true
+interpolation_polynomial_degree: 1
+interpolation_xgrid:
+- 1.0e-09
+- 1.0
+n_integration_cores: 44
+targetgrid:
+- 1.0e-09

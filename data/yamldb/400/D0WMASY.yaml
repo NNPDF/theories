@@ -1,0 +1,6 @@
+conversion_factor: 1.0
+operands:
+- - D0WMASY-grid-40-6-15-3-Wplus_wly_pt25
+- - D0WMASY-grid-40-6-15-3-Wminus_wly_pt25
+operation: ASY
+target_dataset: D0WMASY

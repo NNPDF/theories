@@ -1,0 +1,6 @@
+comment: Original dataset was named NTVNBDMNFe_dw_ite
+conversion_factor: 1.0
+operands:
+- - NUTEV_CC_NB_FE_SIGMARED
+operation: null
+target_dataset: NTVNBDMNFe

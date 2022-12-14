@@ -1,0 +1,5 @@
+conversion_factor: 1.0
+operands:
+- - CMS_TTB_13TEV_2L_TRAP
+operation: 'null'
+target_dataset: CMS_TTB_DIFF_13TEV_2016_2L_TRAP

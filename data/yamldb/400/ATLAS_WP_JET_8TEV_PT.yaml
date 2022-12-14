@@ -1,0 +1,5 @@
+conversion_factor: 1.0
+operands:
+- - ATLAS_WP_JET_8TEV_PT-atlas-atlas-wjets-arxiv-1711.03296-xsec002
+operation: 'null'
+target_dataset: ATLAS_WP_JET_8TEV_PT

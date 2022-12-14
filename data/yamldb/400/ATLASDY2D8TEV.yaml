@@ -1,0 +1,9 @@
+conversion_factor: 1.0
+operands:
+- - ATLASDY2D8TEV-aMCfast_obs_0
+  - ATLASDY2D8TEV-aMCfast_obs_1
+  - ATLASDY2D8TEV-aMCfast_obs_2
+  - ATLASDY2D8TEV-aMCfast_obs_3
+  - ATLASDY2D8TEV-aMCfast_obs_4
+operation: 'null'
+target_dataset: ATLASDY2D8TEV

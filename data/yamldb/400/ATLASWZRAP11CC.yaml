@@ -1,0 +1,7 @@
+conversion_factor: 1000.0
+operands:
+- - ATLAS_WP_7TEV
+  - ATLAS_WM_7TEV
+  - ATLAS_DY_7TEV_CC
+operation: 'null'
+target_dataset: ATLASWZRAP11CC

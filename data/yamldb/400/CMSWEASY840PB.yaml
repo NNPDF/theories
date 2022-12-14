@@ -1,0 +1,6 @@
+conversion_factor: 1.0
+operands:
+- - CMSWEASY840PB-CMS-PAS-SMP-12-001-Wplus_eta4
+- - CMSWEASY840PB-CMS-PAS-SMP-12-001-Wminus_eta3
+operation: ASY
+target_dataset: CMSWEASY840PB

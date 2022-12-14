@@ -1,0 +1,9 @@
+apfelcomb:
+  repetition_flag:
+  - ATLAS_TTB_8TEV_LJ_TRAP_TOT
+conversion_factor: 1.0
+operands:
+- - ATLAS_TTB_8TEV_LJ_TRAP
+- - ATLAS_TTB_8TEV_LJ_TRAP_TOT
+operation: RATIO
+target_dataset: ATLAS_TTB_DIFF_8TEV_LJ_TRAPNORM

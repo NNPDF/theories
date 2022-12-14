@@ -1,0 +1,9 @@
+apfelcomb:
+  repetition_flag:
+  - CMS_TTB_8TEV_2D_TTM_TRAP_TOT
+conversion_factor: 1.0
+operands:
+- - CMS_TTB_8TEV_2D_TTM_TRAP
+- - CMS_TTB_8TEV_2D_TTM_TRAP_TOT
+operation: RATIO
+target_dataset: CMS_TTBAR_2D_DIFF_MTT_TRAP_NORM

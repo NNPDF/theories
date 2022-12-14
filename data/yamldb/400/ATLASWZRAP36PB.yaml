@@ -1,0 +1,7 @@
+conversion_factor: 1.0
+operands:
+- - ATLASWZRAP36PB-ATLAS-arXiv:1109.5141-Wplus_eta4
+  - ATLASWZRAP36PB-ATLAS-arXiv:1109.5141-Wminus_eta3
+  - ATLASWZRAP36PB-ATLAS-arXiv:1109.5141-Z0_eta34
+operation: 'null'
+target_dataset: ATLASWZRAP36PB

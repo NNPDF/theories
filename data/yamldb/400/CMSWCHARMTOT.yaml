@@ -1,0 +1,6 @@
+conversion_factor: 1.0
+operands:
+- - CMSWCHARM-CMSWCHARM-WmC-eta3
+  - CMSWCHARM-CMSWCHARM-WpCb-eta4
+operation: 'add'
+target_dataset: CMSWCHARMTOT

@@ -1,0 +1,5 @@
+conversion_factor: 1.0
+operands:
+- - ATLAS_WCHARM_WP_DIFF_7TEV-ATLAS_WCHARM_7TEV_WPCB_leptrap
+operation: 'null'
+target_dataset: ATLAS_WCHARM_WP_DIFF_7TEV

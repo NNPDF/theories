@@ -1,0 +1,7 @@
+conversion_factor: 1000.0
+operands:
+- - LHCB_DY_7TEV
+  - LHCB_WP_7TEV
+  - LHCB_WM_7TEV
+operation: 'null'
+target_dataset: LHCBWZMU7TEV
