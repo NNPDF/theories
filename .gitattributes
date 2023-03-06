@@ -1,0 +1,1 @@
+data/grids/4005/*.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
