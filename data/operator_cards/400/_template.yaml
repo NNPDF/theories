@@ -1,3 +1,12 @@
+configs:
+  evolution_method: truncated
+  ev_op_max_order: 
+    - 1
+    - 0
+  ev_op_iterations: 1
+  interpolation_polynomial_degree: 4
+  interpolation_is_log: true
+  scvar_method: expanded
   inversion_method: expanded
   polarized: False 
   time_like: False
@@ -75,3 +84,4 @@ rotations:
 debug:
   skip_non_singlet: false
   skip_singlet: false
+eko_version: 0.0.0
