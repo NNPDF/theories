@@ -9,6 +9,8 @@ configs:
   scvar_method: None
   inversion_method: expanded
   n_integration_cores: 0
+  polarized: false
+  time_like: false
 mu0: 1.65
 _mugrid: 
    - 50.0
