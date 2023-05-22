@@ -1,5 +1,5 @@
-ID: 400
-Comments: NNPDF4.0 NNLO alphas=0.118 with new pipeline
+ID: 510
+Comments: NNPDF4.0 N3LO alphas=0.118 with new pipeline, no N3LO ad variation, XIF=0.5, XIR=1.0
 CKM: 0.97428 0.22530 0.003470 0.22520 0.97345 0.041000 0.00862 0.04030 0.999152
 DAMP: 0
 EScaleVar: 1
@@ -14,9 +14,9 @@ MZ: 91.1876
 MaxNfAs: 5
 MaxNfPdf: 5
 ModEv: TRN
-ModSV: None
+ModSV: expanded
 NfFF: 4
-PTO: 2
+PTO: 3
 Q0: 1.65
 QED: 0
 Qedref: 1.777
@@ -28,7 +28,7 @@ SIN2TW: 0.23126
 SxOrd: LL
 SxRes: 0
 TMC: 1
-XIF: 1.0
+XIF: 0.5
 XIR: 1.0
 alphaqed: 0.007496252
 alphas: 0.118
@@ -41,9 +41,9 @@ mc: 1.51
 mt: 172.5
 nfref: 5
 nf0: 4
-fact_to_ren_scale_ratio: 1.0
-kDISbThr: 1.0
 kDIScThr: 1.0
+kDISbThr: 1.0
 kDIStThr: 1.0
+n3lo_ad_variation: [0,0,0,0]
 RenScaleVar: true
 FactScaleVar: true
