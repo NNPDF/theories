@@ -43,7 +43,7 @@ ktThr: 1.0
 mb: 4.92
 mc: 1.51
 mt: 172.5
-nf0: null
-nfref: null
+nf0: 4
+nfref: 5
 RenScaleVar: true
 FactScaleVar: true
