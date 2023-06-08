@@ -1,0 +1,6 @@
+comment: Original dataset was named ATLAS_1JET_8TEV_R06_DEC
+conversion_factor: 1.0
+operands:
+- - ATLAS_1JET_8TEV_R06
+operation: null
+target_dataset: ATLAS_1JET_8TEV_R06
