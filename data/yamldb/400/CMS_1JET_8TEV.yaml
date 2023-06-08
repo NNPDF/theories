@@ -1,0 +1,5 @@
+conversion_factor: 1.0
+operands:
+- - CMS_1JET_8TEV-CMS_1JET_8TEV
+operation: 'null'
+target_dataset: CMS_1JET_8TEV
