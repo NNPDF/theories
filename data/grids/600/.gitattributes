@@ -4,3 +4,11 @@ ATLAS_1JET_13TEV_DIF_PT-Y_BIN3.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
 ATLAS_1JET_13TEV_DIF_PT-Y_BIN4.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
 ATLAS_1JET_13TEV_DIF_PT-Y_BIN5.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
 ATLAS_1JET_13TEV_DIF_PT-Y_BIN6.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R04_BIN1.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R04_BIN2.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R04_BIN3.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R04_BIN4.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R07_BIN1.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R07_BIN2.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R07_BIN3.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
+CMS_1JET_13TEV_DIF_R07_BIN4.pineappl.lz4 filter=lfs diff=lfs merge=lfs -text
