@@ -1,3 +1,9 @@
+Warning!
+--------
+
+This repository should no longer be used. Please go to the [new repository](https://github.com/NNPDF/theories_slim)
+
+
 # Grid theory repository
 Contains all ingredientes (grid, operator card, dataset definition) necessary to regenerate any theory using the pineko structure.
 
