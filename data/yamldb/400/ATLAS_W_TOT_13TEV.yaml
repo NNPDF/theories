@@ -1,0 +1,6 @@
+conversion_factor: 1.0
+operands:
+- - ATLAS_WZ_TOT_13TEV-ATLASWZTOT13TEV81PB_WM_tot
+  - ATLAS_WZ_TOT_13TEV-ATLASWZTOT13TEV81PB_WP_tot
+operation: 'null'
+target_dataset: ATLAS_W_TOT_13TEV
